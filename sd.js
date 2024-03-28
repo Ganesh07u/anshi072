@@ -22,9 +22,11 @@ const febHolidays = [
     "sada khus raho",
     "✋✋✋✋",
     "achha se bithday manaiha",
+    "😇😇😇😇",
     "😇😇🥳🥳🥳🎂🎂🎂",
     "haaaaaaapyyyyyyyyyy    bithdayyyyyyyyyyyyyy 😁😁",
     "Dhyan rakhna ho",
+    "                           ",
     ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
